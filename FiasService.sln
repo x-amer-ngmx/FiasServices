@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiasService", "FiasService\FiasService.csproj", "{A21D3501-1A37-47A6-9F85-87395EBD9883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNalogWebService", "TestNalogWebService\TestNalogWebService.csproj", "{299474BB-2B15-43FB-B677-E7BB3E1D2401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A21D3501-1A37-47A6-9F85-87395EBD9883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21D3501-1A37-47A6-9F85-87395EBD9883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21D3501-1A37-47A6-9F85-87395EBD9883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21D3501-1A37-47A6-9F85-87395EBD9883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299474BB-2B15-43FB-B677-E7BB3E1D2401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299474BB-2B15-43FB-B677-E7BB3E1D2401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299474BB-2B15-43FB-B677-E7BB3E1D2401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299474BB-2B15-43FB-B677-E7BB3E1D2401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
